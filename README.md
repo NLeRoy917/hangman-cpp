@@ -24,5 +24,6 @@ man to indicate how many guesses have been used. Below this hanger is the myster
 with any correct guesses filled in. Below that is the alphabet. Any letters already guessed
 are replaced with a ' - ' character. 
 
+The script requires a file in the same directory of the sciprt called "word_list.txt". It can be as long as the user wishes, and the only requirement is that each word is on a separate line. See the word_list.txt file in this repository.
 
 */
