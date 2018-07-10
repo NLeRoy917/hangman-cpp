@@ -1,10 +1,12 @@
 # hangman-cpp
 A c++ program that plays hangman with the user
 
-/*
 hangman.cpp
+
 Author: Nathan LeRoy
+
 Creation Date: July 9th, 2018
+
 Version: 1.0.0
 
 
@@ -26,4 +28,3 @@ are replaced with a ' - ' character.
 
 The script requires a file in the same directory of the sciprt called "word_list.txt". It can be as long as the user wishes, and the only requirement is that each word is on a separate line. See the word_list.txt file in this repository.
 
-*/
