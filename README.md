@@ -1,5 +1,6 @@
 # hangman-cpp
 A c++ program that plays hangman with the user
+
 /*
 hangman.cpp
 Author: Nathan LeRoy
